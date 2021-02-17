@@ -1,0 +1,45 @@
+h1{
+   text-align: center;
+   color: orange;
+   padding: 35px;
+}
+
+img{
+    height: 250px;
+    width: 150px;
+}
+
+
+.btn-primary{
+    justify-content: center;
+}
+
+.card-title{
+    text-align: center;
+}
+
+.card-text{
+    text-align: center;
+}
+
+.top-nav{
+    display: inline-block;
+}
+
+.sorter{
+    text-align: right;
+}
+
+#navbarNav{
+    justify-content: center;
+}
+
+.fa_custom {
+    color: #0099CC;
+    text-align: right;
+    }
+
+.cart{
+    text-align: right;
+}
+    
